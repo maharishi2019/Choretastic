@@ -1,0 +1,35 @@
+body{
+    background-color: #797B84; 
+}
+#redirect-div{
+    margin-top: 20%; 
+    margin-left: 38%; 
+    text-decoration: none; 
+    width: 25%; 
+    position: fixed; 
+}
+#redirect-button{
+    background-color: #DBABBE; 
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: block; 
+}
+#redirect-button:hover{
+    background-color: #BAA1A7; 
+}
+#login{
+    background-color: #EDBBB4; 
+    margin-top: 20%; 
+    margin-left: 38%; 
+    text-decoration: none; 
+    width: 25%; 
+    position: fixed; 
+}
+#chorelist{
+    background-color: #EDD2E0; 
+}
+#home-widget{
+    background-color: #EDD2E0; 
+}
